@@ -13,6 +13,6 @@ int main() {
             default:
                 break;
         }
-    } while (!choixTp);
+    } while (choixTp);
     return 0;
 }

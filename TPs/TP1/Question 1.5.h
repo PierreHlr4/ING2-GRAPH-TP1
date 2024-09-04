@@ -23,7 +23,7 @@ void init_sommet(Sommet* s, const char* nom, int numero);
 
 void init_graphe(Graphe* g, int ordre);
 
-void charger_graphe(Graphe* g);
+void charger_graphe(const char* nom_fichier, Graphe* g);
 
 void afficher_influences(Graphe* g);
 

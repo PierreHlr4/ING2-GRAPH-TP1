@@ -22,8 +22,8 @@ void init_graphe(Graphe* g, int ordre) {
     }
 }
 
-void charger_graphe(Graphe* g) {
-    FILE* fichier = fopen("TP1_1.5_Influences", "r");
+void charger_graphe(const char* nom_fichier, Graphe* g) {
+    FILE* fichier = fopen(nom_fichier, "r");
     if (fichier == NULL) {
         perror("Erreur lors de l'ouverture du fichier");
         exit(EXIT_FAILURE);

@@ -5,7 +5,11 @@
 void TP1() {
     Graphe g;  // Allouer un Graphe
 
-    charger_graphe(&g);
+    char nom_fichier[100];
+    printf("Entrez le nom du fichier");
+    scanf("%s", nom_fichier);
+
+    charger_graphe(nom_fichier, &g);
 
     afficher_influences(&g);
 }

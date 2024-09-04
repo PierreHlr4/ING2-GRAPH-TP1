@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/sacha/CLionProjects/TP_ING2/cmake-build-debug",
-		"source" : "C:/Users/sacha/CLionProjects/TP_ING2"
+		"build" : "C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug",
+		"source" : "C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 6
 	}
 }

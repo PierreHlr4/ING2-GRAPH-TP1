@@ -2,7 +2,6 @@
 
 int main() {
     int choixTp = 0;
-    int a;
     do {
         printf("Quel TP souhaitez vous ? 0 pour quitter.\n");
         scanf("%d", &choixTp);

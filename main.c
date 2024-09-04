@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("I'm homophobic !\n");
+    printf("Hello world !\n");
     return 0;
 }

@@ -1,3 +1,5 @@
+#include <stdio.h>
+#include <stdlib.h>
 #include <stdbool.h>
 #include <string.h>
 
@@ -18,5 +20,11 @@ typedef struct {
 } Graphe;
 
 void init_sommet(Sommet* s, const char* nom, int numero);
+
+void init_graphe(Graphe* g, int ordre);
+
+void charger_graphe(Graphe* g);
+
+void afficher_influences(Graphe* g);
 
 #endif

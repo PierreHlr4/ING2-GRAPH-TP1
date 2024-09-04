@@ -61,6 +61,12 @@ build CMakeFiles/TP_ING2.dir/TPs/TP1/Question_1.5.c.obj: C_COMPILER__TP_ING2_uns
   OBJECT_DIR = CMakeFiles\TP_ING2.dir
   OBJECT_FILE_DIR = CMakeFiles\TP_ING2.dir\TPs\TP1
 
+build CMakeFiles/TP_ING2.dir/TPs/TP1/TP1.c.obj: C_COMPILER__TP_ING2_unscanned_Debug C$:/Users/sacha/CLionProjects/TP_ING2/TPs/TP1/TP1.c || cmake_object_order_depends_target_TP_ING2
+  DEP_FILE = CMakeFiles\TP_ING2.dir\TPs\TP1\TP1.c.obj.d
+  FLAGS = -g -std=gnu99 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\TP_ING2.dir
+  OBJECT_FILE_DIR = CMakeFiles\TP_ING2.dir\TPs\TP1
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target TP_ING2
@@ -69,7 +75,7 @@ build CMakeFiles/TP_ING2.dir/TPs/TP1/Question_1.5.c.obj: C_COMPILER__TP_ING2_uns
 #############################################
 # Link the executable TP_ING2.exe
 
-build TP_ING2.exe: C_EXECUTABLE_LINKER__TP_ING2_Debug CMakeFiles/TP_ING2.dir/main.c.obj CMakeFiles/TP_ING2.dir/TPs/TP1/Question_1.5.c.obj
+build TP_ING2.exe: C_EXECUTABLE_LINKER__TP_ING2_Debug CMakeFiles/TP_ING2.dir/main.c.obj CMakeFiles/TP_ING2.dir/TPs/TP1/Question_1.5.c.obj CMakeFiles/TP_ING2.dir/TPs/TP1/TP1.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\TP_ING2.dir

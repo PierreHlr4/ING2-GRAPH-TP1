@@ -7,5 +7,7 @@ add_executable(TP_ING2 main.c
         TPs/TP1/Station.h
         TPs/TP1/Reseau.h
         "TPs/TP1/Question 1.5.c"
-        "TPs/TP1/Question 1.5.c")
+        "TPs/TP1/Question 1.5.c"
+        TPs/TP1/TP1.c
+        TPs/TP1/TP1.c)
 

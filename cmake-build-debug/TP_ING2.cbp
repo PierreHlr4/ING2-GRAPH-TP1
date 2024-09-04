@@ -74,6 +74,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/TPs/TP1/Reseau.h">
+			<Option target="TP_ING2"/>
+		</Unit>
+		<Unit filename="C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/TPs/TP1/Station.h">
+			<Option target="TP_ING2"/>
+		</Unit>
 		<Unit filename="C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/main.c">
 			<Option target="TP_ING2"/>
 		</Unit>

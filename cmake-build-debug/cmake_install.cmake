@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/sacha/CLionProjects/TP_ING2
+# Install script for directory: C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/sacha/CLionProjects/TP_ING2/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

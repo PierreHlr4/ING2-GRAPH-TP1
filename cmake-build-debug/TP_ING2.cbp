@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug"/>
+				<Option working_dir="C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="TP_ING2">
-				<Option output="C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/TP_ING2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug"/>
+				<Option output="C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/TP_ING2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -29,15 +29,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 TP_ING2"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 TP_ING2"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="TP_ING2/fast">
-				<Option output="C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/TP_ING2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug"/>
+				<Option output="C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/TP_ING2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -47,43 +47,55 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 TP_ING2/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 TP_ING2/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug"/>
+				<Option working_dir="C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug"/>
+				<Option working_dir="C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/TPs/TP1/Reseau.h">
+		<Unit filename="C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/TPs/TP1/Question 1.5.c">
 			<Option target="TP_ING2"/>
 		</Unit>
-		<Unit filename="C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/TPs/TP1/Station.h">
+		<Unit filename="C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/TPs/TP1/Question 1.5.h">
 			<Option target="TP_ING2"/>
 		</Unit>
-		<Unit filename="C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/main.c">
+		<Unit filename="C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/TPs/TP1/Reseau.h">
 			<Option target="TP_ING2"/>
 		</Unit>
-		<Unit filename="C:/Users/pierr/CLionProjects/ING2-GRAPH-TP1/CMakeLists.txt">
+		<Unit filename="C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/TPs/TP1/Station.h">
+			<Option target="TP_ING2"/>
+		</Unit>
+		<Unit filename="C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/TPs/TP1/TP1.c">
+			<Option target="TP_ING2"/>
+		</Unit>
+		<Unit filename="C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/TPs/TP1/TP1.h">
+			<Option target="TP_ING2"/>
+		</Unit>
+		<Unit filename="C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/main.c">
+			<Option target="TP_ING2"/>
+		</Unit>
+		<Unit filename="C:/Users/pierr/OneDrive/Documents/ECE/ING1/S1/Algorithmique et Programmation en C/ING2-GRAPH-TP1/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
